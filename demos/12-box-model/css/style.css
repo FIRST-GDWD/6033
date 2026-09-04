@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 24px 36px;
+    border: 0px solid green;
+    border-radius: 24px;
+    background-color: lightgreen;
+    padding: 24px;
+}
